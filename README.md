@@ -3,7 +3,7 @@
   Collison, out of bounds detection, Animation, automated world creation.
   Before clean up, many unused variables and methods.
 
-### H3  To-do:
+####  To-do:
 1.    Random world generation
 ...*  Procedural Content Generation
 ...*  Images
