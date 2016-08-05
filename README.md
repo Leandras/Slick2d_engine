@@ -5,7 +5,7 @@
 
 ####  To-do:
 1.    Random world generation
-..*  Procedural Content Generation
+..* Procedural Content Generatio0n
 ..*  Images
 2.    Universal detection
 ..*  Out of bounds
