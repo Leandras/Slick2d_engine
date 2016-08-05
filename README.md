@@ -5,8 +5,8 @@
 
 ####  To-do:
 1.    Random world generation
-...*  Procedural Content Generation
-...*  Images
+..*  Procedural Content Generation
+..*  Images
 2.    Universal detection
-...*  Out of bounds
-...*  Collison detection
+..*  Out of bounds
+..*  Collison detection
